@@ -30,37 +30,37 @@ tr:nth-child(even) {
     <th>Time</th>
   </tr>
   <tr>
-    <td>Language Arts</td>
+    <td>Science</td>
     <td>Monday, Thursday</td>
     <td>9:10 - 10:15</td>
   </tr>
   <tr>
-    <td>Social Science</td>
+    <td>Math</td>
     <td>Monday, Thursday</td>
     <td>10:35 - 11:40</td>
   </tr>
   <tr>
-    <td>Science</td>
+    <td>Language Arts</td>
     <td>Monday, Thursday</td>
     <td>12:10- 1:15</td>
  </tr>
   <tr>
    <td>Homeroom</td> 
    <td> Wednesday </td>
-   <td> 9:10-10:40/10:30</td>  
+   <td> 9:10-9:50</td>  
     </tr>
   <tr>
-    <td>Math</td>
+    <td>Social Studies</td>
     <td>Tuesday, Friday</td>
     <td>9:10-10:15</td>
   </tr>
   <tr>
-    <td>Exploratory</td>
+    <td>Physical Fitness</td>
     <td>Tuesday, Friday</td>
     <td>10:35 - 11:40</td>
   </tr>
   <tr>
-   <td>Physical Fitness</td> 
+   <td>Exploatory Wheel</td> 
    <td> Tuesday, Friday </td>
    <td> 12:10 - 1:15 </td>
 
