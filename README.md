@@ -15,7 +15,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: blueviolet;
+  background-color: Red;
 }
 </style>
 </head>
